@@ -21,11 +21,11 @@ app.get("/about", function(req, res){
 let {Client} = require('pg');
 
 const pg = new Client({
-    host: '192.168.0.30',
-    user: 'refficstest',     
-    password: 'fpvlrtm1!',
-    database: 'refficstest',
-    port: 5432
+    host: 'server host',
+    user: 'user name',     
+    password: 'user password',
+    database: 'dbname',
+    port: 'portnumber'
 });
 
 pg.connect();
