@@ -20,8 +20,8 @@ const send = async(option) => {
 };
 
 let email_data = {
-    from: "osp9***@gmail.com",
-    to: "osp9***@gmail.com",
+    from: "osp****@gmail.com",
+    to: "osp****@gmail.com",
     subject : "처음 보내는 메일입니다.",
     text : "nodejs 이메일 보내기"
 }
