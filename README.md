@@ -1,4 +1,4 @@
-# node.js 로 이메일 전송 및 DB연결해서 json출력하기
+# node.js 로 이메일 전송 및 DB연결 및 json출력
 
 
 
