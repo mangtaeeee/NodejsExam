@@ -1,4 +1,4 @@
-# node.js 로 이메일 전송 / DB연결 / json출력 
+# node.js 로 이메일 전송/ DB연결/ json출력 
 
 
 
